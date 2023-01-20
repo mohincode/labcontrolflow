@@ -9,7 +9,7 @@ public class LabControlFlowExtension {
         // Let your program output clothing suggestions depending on a combination of weather conditions and temperature.
         //e.g. if it is both "rainy" and less than 12 degrees, output "wear a waterproof winter coat"
         // Get user input information about weather and avg.temperature
-        System.out.println("What is the weather like today and the avg temperature?");
+        System.out.println("Hey let's help you figure out what to wear! ");
         System.out.println("");
         // Collect user input -
         Scanner reader = new Scanner(System.in);
